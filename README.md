@@ -1,7 +1,7 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&dracula=radical)
 [![MasterHead](https://i.ibb.co/ygSLHhk/github.gif)]
 <h1 align="center">Hi 👋, I'm suzan</h1>
 <h3 align="center">A Reliable MERN Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co/YQtYShX/2.gif" alt="suzan-sheikh" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suzan-sheikh&label=Profile%20views&color=0e75b6&style=flat" alt="suzan-sheikh" /> </p>
 
