@@ -1,6 +1,7 @@
 [![MasterHead](https://i.ibb.co/ygSLHhk/github.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm suzan</h1>
 <h3 align="center">A Reliable MERN Stack Developer</h3>
+
 (img align="right" alt="Coding" width="400" src="https://i.ibb.co/YQtYShX/2.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suzan-sheikh&label=Profile%20views&color=0e75b6&style=flat" alt="suzan-sheikh" /> </p>
