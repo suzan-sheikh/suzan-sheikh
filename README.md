@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/ygSLHhk/github.gif)]
+![MasterHead](https://i.ibb.co/ygSLHhk/github.gif)
 <h1 align="center">Hi 👋, I'm suzan</h1>
 <h3 align="center">A Reliable MERN Stack Developer</h3>
 
