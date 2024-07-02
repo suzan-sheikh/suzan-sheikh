@@ -1,3 +1,17 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+
+<p>Welcome to my page! </br> I'm Md Suzan Sheikh, MERN Stack developer from <b>Dhaka, Bangladesh</b>
+<h3>Things I code with</h3>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
+
+
+
+
 <a href="https://www.facebook.com/mdsuzanskh">
 <img src="https://i.ibb.co/TTLbFmT/github.jpg" />
 </a>
@@ -11,7 +25,7 @@
 
 ## :eyes: About Me
 ### As a reliable MERN Stack Developer with a strong background of 10 years of professional experience in the Bangladesh Army, I want to present myself as competent in the workplace through my experience, discipline, and accuracy:
- 
+
 #### 🔭 I’m currently working on **Trust Innovation**
 #### 🌱 I’m currently learning **Python, JavaScript**
 #### 🤝 I’m looking for help with **MERN, react**
@@ -70,5 +84,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suzan-sheikh&show_icons=true&locale=en&layout=compact" alt="suzan-sheikh" /></p>
 
 <br />
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=suzan-sheikh&" alt="suzan-sheikh" /></p>
