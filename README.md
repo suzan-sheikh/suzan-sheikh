@@ -9,6 +9,17 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mir-hussain&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
+## :eyes: About Me
+### Hi, i'm MERN Stack Developer 
+#### 🔭 I’m currently working on **Trust Innovation**
+#### 🌱 I’m currently learning **Python, JavaScript**
+#### 🤝 I’m looking for help with **MERN, react**
+#### 💬 Ask me about **react, node**
+#### 📫 How to reach me **mdsuzanskh@gmail.com**
+#### ⚡ Fun fact **Yes i am funny**
+
+
+
 ## :mailbox: Reach me out
 
 <br />
@@ -50,14 +61,7 @@
 <img src="https://i.ibb.co/pLcWzy1/icons8-github.gif"/>
 </p><br/>
 
-## :eyes: Current overview
 
-### 🔭 I’m currently working on **Trust Innovation**
-### 🌱 I’m currently learning **Python, JavaScript**
-### 🤝 I’m looking for help with **MERN, react**
-### 💬 Ask me about **react, node**
-### 📫 How to reach me **mdsuzanskh@gmail.com**
-### ⚡ Fun fact **Yes i am funny**
 
 
 <br />
@@ -66,4 +70,4 @@
 
 <br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suzan-sheikh&" alt="suzan-sheikh" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=suzan-sheikh&" alt="suzan-sheikh" /></p>
