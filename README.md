@@ -36,7 +36,7 @@
 
 ## :mailbox: Reach me out
 <br />
-<p align="center">
+<p align="left">
 <a href="https://twitter.com/@mdsuzanksh" target="_blank">
   <img align="center" src="https://i.ibb.co/V2GBgs7/twiter.gif" alt="@mdsuzanksh" height="30" width="40" />
 </a>
@@ -69,5 +69,3 @@
 </p><br/>
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suzan-sheikh&show_icons=true&locale=en&layout=compact" alt="suzan-sheikh" /></p>
-
-<br /
