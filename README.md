@@ -1,7 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Md Suzan Sheikh, MERN Stack developer from <b>Dhaka, Bangladesh</b>
+<p>Welcome to my page! </br> I'm Md Suzan Sheikh, MERN Stack developer from <b>Dhaka, Bangladesh</b> As a reliable MERN Stack Developer with a strong background of 10 years of professional experience in the Bangladesh Army, I want to present myself as competent in the workplace through my experience, discipline, and accuracy
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -23,8 +24,7 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mir-hussain&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
-## :eyes: About Me
-### As a reliable MERN Stack Developer with a strong background of 10 years of professional experience in the Bangladesh Army, I want to present myself as competent in the workplace through my experience, discipline, and accuracy:
+## :eyes: Current overview
 
 #### 🔭 I’m currently working on **Trust Innovation**
 #### 🌱 I’m currently learning **Python, JavaScript**
