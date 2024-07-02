@@ -34,28 +34,20 @@
 #### ⚡ Fun fact **Yes i am funny**
 
 
-
 ## :mailbox: Reach me out
-
 <br />
-
 <p align="center">
 <a href="https://twitter.com/@mdsuzanksh" target="_blank">
-  <img align="center" src="https://i.ibb.co/V2GBgs7/twiter.gif" alt="@mdsuzanksh" height="60" width="80" />
+  <img align="center" src="https://i.ibb.co/V2GBgs7/twiter.gif" alt="@mdsuzanksh" height="30" width="40" />
 </a>
-
 <a href="https://www.facebook.com/mdsuzanskh" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdsuzanskh" height="60" width="80" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdsuzanskh" height="30" width="40" />
 </a>
-
 <a href="https://www.linkedin.com/in/mdsuzanskh" target="_blank">
-  <img align="center" src="https://i.ibb.co/VDbT4Zy/icons8-linkedin.gif" alt="https://www.facebook.com/mdsuzanskh" height="60" width="80" />
+  <img align="center" src="https://i.ibb.co/VDbT4Zy/icons8-linkedin.gif" alt="https://www.facebook.com/mdsuzanskh" height="30" width="40" />
 </a>
-
 </p>
-
 ## :computer: Technologies that I know
-
 <br>
 <p align="center">
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
@@ -75,12 +67,7 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 <img src="https://i.ibb.co/pLcWzy1/icons8-github.gif"/>
 </p><br/>
-
-
-
-
 <br />
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suzan-sheikh&show_icons=true&locale=en&layout=compact" alt="suzan-sheikh" /></p>
 
-<br />
+<br /
