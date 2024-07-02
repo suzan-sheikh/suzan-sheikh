@@ -10,7 +10,8 @@
 </p>
 
 ## :eyes: About Me
-### Hi, i'm MERN Stack Developer 
+### As a reliable MERN Stack Developer with a strong background of 10 years of professional experience in the Bangladesh Army, I want to present myself as competent in the workplace through my experience, discipline, and accuracy:
+ 
 #### 🔭 I’m currently working on **Trust Innovation**
 #### 🌱 I’m currently learning **Python, JavaScript**
 #### 🤝 I’m looking for help with **MERN, react**
