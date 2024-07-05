@@ -44,6 +44,5 @@
 </a>
 </p>
 <br />
-<p><img style="width: 100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suzan-sheikh&show_icons=true&locale=en&layout=compact&theme=dark" alt="suzan-sheikh" /></p>
 
-
+<p><img align="center" style="width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=suzan-sheikh&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="suzan-sheikh" /></p>
