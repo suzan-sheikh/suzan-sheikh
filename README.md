@@ -10,7 +10,7 @@
   <img alt="React" src="https://img.shields.io/badge/Next.js-Label?style=for-the-badge&logo=Next.js&logoColor=white&logoSize=amd&labelColor=black&color=white" /> 
   <img alt="React" src="https://img.shields.io/badge/Tailwind-Label?style=for-the-badge&logo=tailwind%20css&logoColor=%233EBFF8&logoSize=amd&labelColor=black&color=%23430098" /> 
   <img alt="React" src="https://img.shields.io/badge/ExpressJS-Label?style=for-the-badge&logo=Express&logoColor=white&logoSize=amd&labelColor=black&color=%23007ACC" /> 
-  <img alt="React" src="https://img.shields.io/badge/Node.JS-Label?style=for-the-badge&logo=node.js&logoColor=white&logoSize=amd&labelColor=%23141E46&color=%2341B06E" />  
+  <img alt="React" src="https://img.shields.io/badge/Node.JS-Label?style=for-the-badge&logo=node.js&logoColor=white&logoSize=amd&labelColor=%23141E46&color=%230A6847" />  
   <img alt="React" src="https://img.shields.io/badge/MongoDB-Label?style=for-the-badge&logo=mongodb&logoColor=%23fff&labelColor=black&color=%2313AA52" />  
   <img alt="React" src="https://img.shields.io/badge/Firebase-Label?style=for-the-badge&logo=firebase&logoColor=%23FE0000&logoSize=amd&labelColor=black&color=%23F07A5B" />
 </p>
