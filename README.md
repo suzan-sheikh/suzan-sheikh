@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Md Suzan Sheikh, MERN Stack developer from <b>Dhaka, Bangladesh</b> As a reliable MERN Stack Developer with a strong background of 10 years of professional experience in the Bangladesh Army, I want to present myself as competent in the workplace through my experience, discipline, and accuracy
+<p>Welcome to my page! </br> I'm Md Suzan Sheikh, MERN Stack developer from <b>Dhaka, Bangladesh</b> As a reliable MERN Stack Developer with a strong background of 10 years of professional experience in the Bangladesh Army, I want to present myself as competent in the workplace through my experience, discipline, and accuracy.
 
 <h3>Things I code with</h3>
 <p>
