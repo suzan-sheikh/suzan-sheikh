@@ -14,16 +14,6 @@
   <img alt="React" src="https://img.shields.io/badge/MongoDB-Label?style=for-the-badge&logo=mongodb&logoColor=%23fff&labelColor=black&color=%2313AA52" />  
   <img alt="React" src="https://img.shields.io/badge/Firebase-Label?style=for-the-badge&logo=firebase&logoColor=%23FE0000&logoSize=amd&labelColor=black&color=%23F07A5B" />
 </p>
-<a href="https://www.facebook.com/mdsuzanskh">
-<img src="https://i.ibb.co/TTLbFmT/github.jpg" />
-</a>
-
-## :chart_with_upwards_trend: Current Stats
-<br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mir-hussain&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
-
 
 
 ## :eyes: Current overview
@@ -45,5 +35,3 @@
 </a>
 </p>
 <br />
-
-<p><img align="center" style="width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=suzan-sheikh&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="suzan-sheikh" /></p>
