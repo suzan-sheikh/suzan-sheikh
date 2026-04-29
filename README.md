@@ -17,8 +17,7 @@
 
 
 ## :eyes: Current overview
-<p>🔭 I’m currently working on **Trust Innovation** This instituted led by the Bangladesh Army</p>
-<p>🌱 I’m currently learning **Python, JavaScript** </p>
+<p>🌱 I’m currently learning **N8N, Python, JavaScript** </p>
 <p>📫 How to reach me *mdsuzanskh@gmail.com*</p>
 <p>⚡ Fun fact **Yes i am funny**</p>
 
